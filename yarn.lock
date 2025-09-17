@@ -3476,10 +3476,10 @@ axe-core@^4.10.0:
   resolved "https://registry.yarnpkg.com/axe-core/-/axe-core-4.10.3.tgz#04145965ac7894faddbac30861e5d8f11bfd14fc"
   integrity sha512-Xm7bpRXnDSX2YE2YFfBk2FnF0ep6tmG7xPh8iHee8MIcrgq762Nkce856dYtJYLkuIoYZvGfTs/PbZhideTcEg==
 
-axios@^1.11.0:
-  version "1.11.0"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-1.11.0.tgz#c2ec219e35e414c025b2095e8b8280278478fdb6"
-  integrity sha512-1Lx3WLFQWm3ooKDYZD1eXmoGO9fxYQjrycfHFC8P0sCfQVXyROp0p9PFWBehewBOdCwHc+f/b8I0fMto5eSfwA==
+axios@^1.12.2:
+  version "1.12.2"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-1.12.2.tgz#6c307390136cf7a2278d09cec63b136dfc6e6da7"
+  integrity sha512-vMJzPewAlRyOgxV2dU0Cuz2O8zzzx9VYtbJOaBgXFeLc4IV/Eg50n4LowmehOOR61S8ZMpc2K5Sa7g6A4jfkUw==
   dependencies:
     follow-redirects "^1.15.6"
     form-data "^4.0.4"
@@ -4106,12 +4106,12 @@ dotenv@^17.2.0:
   resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-17.2.1.tgz#6f32e10faf014883515538dc922a0fb8765d9b32"
   integrity sha512-kQhDYKZecqnM0fCnzI5eIv5L4cAe/iRI+HqMbO/hbRdTAeXDG+M9FjipUxNfbARuEg4iHIbhnhs78BCHNbSxEQ==
 
-dots-wrapper@^3.12.1:
-  version "3.12.2"
-  resolved "https://registry.yarnpkg.com/dots-wrapper/-/dots-wrapper-3.12.2.tgz#fb283435cd52d97adbefbdc948f7fe0ac4bdabd8"
-  integrity sha512-nhj12s8Dze9DjbMZybYebosO9LsLEqG/V43T6/rXMWnk3jQuxexR6AyZYkj91ulavO/+TojxBTln0KaiA3Dswg==
+dots-wrapper@^3.12.5:
+  version "3.12.5"
+  resolved "https://registry.yarnpkg.com/dots-wrapper/-/dots-wrapper-3.12.5.tgz#6a08a078ea73700613f59fd3e5b3fd16c17c7642"
+  integrity sha512-KYLOl79M3Nps/jMAft2fG02xdGpiXWr53CNHo+XJh7y+B15H/QPxA9xn4TYNwyElokfzLU1YQ+tGIOhvIoojqQ==
   dependencies:
-    axios "^1.11.0"
+    axios "^1.12.2"
 
 dunder-proto@^1.0.0, dunder-proto@^1.0.1:
   version "1.0.1"
