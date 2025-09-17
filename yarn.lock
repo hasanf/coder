@@ -5220,10 +5220,10 @@ human-signals@^2.1.0:
   resolved "https://registry.yarnpkg.com/human-signals/-/human-signals-2.1.0.tgz#dc91fcba42e4d06e4abaed33b3e7a3c02f514ea0"
   integrity sha512-B4FFZ6q/T2jhhksgkbEW3HBvWIfDW85snkQgawt07S7J5QXTk6BkNV+0yAeZrM5QpMAdYlocGoljn0sJ/WQkFw==
 
-humanize-duration@^3.32.1:
-  version "3.33.0"
-  resolved "https://registry.yarnpkg.com/humanize-duration/-/humanize-duration-3.33.0.tgz#29b3276e68443e513fc85223d094faacdbb8454c"
-  integrity sha512-vYJX7BSzn7EQ4SaP2lPYVy+icHDppB6k7myNeI3wrSRfwMS5+BHyGgzpHR0ptqJ2AQ6UuIKrclSg5ve6Ci4IAQ==
+humanize-duration@^3.33.1:
+  version "3.33.1"
+  resolved "https://registry.yarnpkg.com/humanize-duration/-/humanize-duration-3.33.1.tgz#e4df2ce6660f24a6a3bf4a7b3bc63edb5be7826f"
+  integrity sha512-hwzSCymnRdFx9YdRkQQ0OYequXiVAV6ZGQA2uzocwB0F4309Ke6pO8dg0P8LHhRQJyVjGteRTAA/zNfEcpXn8A==
 
 iconv-lite@0.6.3, iconv-lite@^0.6.3:
   version "0.6.3"
